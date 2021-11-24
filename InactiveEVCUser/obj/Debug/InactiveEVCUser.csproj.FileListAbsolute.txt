@@ -1,0 +1,12 @@
+C:\Window_Application\Inactive_EVC_User\InactiveEVCUser\InactiveEVCUser\bin\Debug\InactiveEVCUser.exe.config
+C:\Window_Application\Inactive_EVC_User\InactiveEVCUser\InactiveEVCUser\bin\Debug\InactiveEVCUser.exe
+C:\Window_Application\Inactive_EVC_User\InactiveEVCUser\InactiveEVCUser\bin\Debug\InactiveEVCUser.pdb
+C:\Window_Application\Inactive_EVC_User\InactiveEVCUser\InactiveEVCUser\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Window_Application\Inactive_EVC_User\InactiveEVCUser\InactiveEVCUser\obj\Debug\InactiveEVCUser.Form1.resources
+C:\Window_Application\Inactive_EVC_User\InactiveEVCUser\InactiveEVCUser\obj\Debug\InactiveEVCUser.Properties.Resources.resources
+C:\Window_Application\Inactive_EVC_User\InactiveEVCUser\InactiveEVCUser\obj\Debug\InactiveEVCUser.csproj.GenerateResource.cache
+C:\Window_Application\Inactive_EVC_User\InactiveEVCUser\InactiveEVCUser\obj\Debug\InactiveEVCUser.csproj.CoreCompileInputs.cache
+C:\Window_Application\Inactive_EVC_User\InactiveEVCUser\InactiveEVCUser\obj\Debug\InactiveEVCUser.csproj.CopyComplete
+C:\Window_Application\Inactive_EVC_User\InactiveEVCUser\InactiveEVCUser\obj\Debug\InactiveEVCUser.exe
+C:\Window_Application\Inactive_EVC_User\InactiveEVCUser\InactiveEVCUser\obj\Debug\InactiveEVCUser.pdb
+C:\Window_Application\Inactive_EVC_User\InactiveEVCUser\InactiveEVCUser\obj\Debug\InactiveEVCUser.csproj.AssemblyReference.cache
